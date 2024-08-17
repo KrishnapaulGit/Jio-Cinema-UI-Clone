@@ -127,16 +127,6 @@ const sportsData = [
         </div>
       </PostersWrapper>
 
-      <PostersWrapper title="Fresh Episodes 📺">
-        <div className={styles.scroll_container}>
-          {freshEpisodes.map((image, i) => (
-            <div className={styles.poster_item} key={i}>
-              <VPoster image={image} />
-            </div>
-          ))}
-        </div>
-      </PostersWrapper>
-
       <PostersWrapper title="India's Iconic Sporting Moments Of The Year">
         <div className={styles.scroll_container}>
           {sportsData.map((image, i) => (
