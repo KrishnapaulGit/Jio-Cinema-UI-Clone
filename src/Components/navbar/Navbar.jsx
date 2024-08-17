@@ -10,17 +10,17 @@ function Navbar() {
         <div className="navbar-left flex jc-left al-center">
           <img
             src="https://www.jiocinema.com/images/jc_logo.svg"
-            alt="navbar-logo"
+            alt="JioCinema Logo"
             className="navbar-logo"
           />
-          <Link to="./index.html">JioCinema</Link>
+          <Link to="/">JioCinema</Link>
           <button id="subscribe" className="subscribe-btn">
             Subscribe
           </button>
           <Link to="/">For You</Link>
-          <Link to="/">Sports</Link>
-          <Link to="/">Free</Link>
-          <Link to="/">Premium</Link>
+          <Link to="/sports">Sports</Link>
+          <Link to="/free">Free</Link>
+          <Link to="/premium">Premium</Link>
         </div>
         <div className="navbar-right flex jc-right al-center">
           {/* second part */}
@@ -33,6 +33,7 @@ function Navbar() {
           </div>
           <img
             src="https://www.jiocinema.com/images/profile/profile_avatar.svg"
+            alt="Profile Avatar"
             className="profile-icon"
           />
         </div>

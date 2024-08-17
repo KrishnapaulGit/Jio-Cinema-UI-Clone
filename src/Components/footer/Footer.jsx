@@ -26,16 +26,28 @@ function Footer() {
             <p className={styles.rightheading}>Connect With Us</p>
             <div className={styles.socialicons}>
               <div>
-                <img src="https://www.jiocinema.com/images/facebook.svg" />
+                <img
+                  src="https://www.jiocinema.com/images/facebook.svg"
+                  alt="Facebook"
+                />
               </div>
               <div>
-                <img src="https://www.jiocinema.com/images/twitter.svg" />
+                <img
+                  src="https://www.jiocinema.com/images/twitter.svg"
+                  alt="Twitter"
+                />
               </div>
               <div>
-                <img src="https://www.jiocinema.com/images/instagram.svg" />
+                <img
+                  src="https://www.jiocinema.com/images/instagram.svg"
+                  alt="Instagram"
+                />
               </div>
               <div>
-                <img src="https://www.jiocinema.com/images/youtube.svg" />
+                <img
+                  src="https://www.jiocinema.com/images/youtube.svg"
+                  alt="YouTube"
+                />
               </div>
             </div>
           </div>
@@ -45,10 +57,12 @@ function Footer() {
               <img
                 className={styles.stores}
                 src="https://www.jiocinema.com/images/googlePlay.svg"
+                alt="Google Play Store"
               />
               <img
                 className={styles.stores}
                 src="https://www.jiocinema.com/images/appleStore.svg"
+                alt="Apple App Store"
               />
             </div>
           </div>
@@ -56,9 +70,12 @@ function Footer() {
       </div>
       <div className={styles.secondpart}>
         <p>
-         Copyright © 2024 Viacom18 Media PVT LTD. All rights reserved.
+          Copyright © 2024 Viacom18 Media PVT LTD. All rights reserved.
         </p>
-        <img src="https://www.jiocinema.com/images/payments/jio-logo.png" />
+        <img
+          src="https://www.jiocinema.com/images/payments/jio-logo.png"
+          alt="Jio Logo"
+        />
       </div>
     </div>
   );
