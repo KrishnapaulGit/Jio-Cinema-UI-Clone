@@ -58,11 +58,11 @@ Ensure you have the following installed on your local development machine:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/repository-name.git
+    git clone https://github.com/KrishnapaulGit/Jio-Cinema-UI-Clone.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd repository-name
+    cd Jio-Cinema-UI-Clone
     ```
 3. **Install dependencies:**
     ```sh
