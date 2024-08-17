@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/css/main.153fcf4e.css",
+    "main.js": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/js/main.e218cfa7.js",
+    "static/js/787.2843e959.chunk.js": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/js/787.2843e959.chunk.js",
+    "static/media/JioTypeVarW05-Regular.woff": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/media/JioTypeVarW05-Regular.972d7b530b9e00a6eb30.woff",
+    "static/media/revicons.eot": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/KrishnapaulGit/Jio-Cinema-UI-Clone/index.html",
+    "main.153fcf4e.css.map": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/css/main.153fcf4e.css.map",
+    "main.e218cfa7.js.map": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/js/main.e218cfa7.js.map",
+    "787.2843e959.chunk.js.map": "/KrishnapaulGit/Jio-Cinema-UI-Clone/static/js/787.2843e959.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153fcf4e.css",
+    "static/js/main.e218cfa7.js"
+  ]
+}
