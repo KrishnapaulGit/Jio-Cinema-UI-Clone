@@ -8,7 +8,7 @@ import { BrowserRouter } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/jiocinema-clone">
+    <BrowserRouter basename="Jio-Cinema-UI-Clone">
       <App />
     </BrowserRouter>
   </React.StrictMode>
