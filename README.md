@@ -1,7 +1,6 @@
 # Jio-Cinema-UI-Clone
 
 
-![Project Screenshot](URL-to-screenshot-or-banner)
 
 ## **Table of Contents**
 
@@ -44,6 +43,8 @@ This is the Jio Cinema UI Clone Project focused on Jio Cinema's Hompage UI
 
 ---
 
+
+### **Getting Started**
 
 ### **Prerequisites**
 
